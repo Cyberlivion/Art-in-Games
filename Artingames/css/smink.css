@@ -3,10 +3,10 @@ ul {
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: rgb(97, 97, 97);
+    background-color: red;
     position: fixed;
     overflow: hidden;
-    border: 10px ridge rgb(83, 197, 172);
+    border: 10px ridge darkred;
 }
 li a {
     display: block;
