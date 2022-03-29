@@ -3,10 +3,10 @@ ul {
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: red;
-    position: fixed;
+    background-color: rgb(18, 158, 146);
+    position: fixed; top: 0; width: 100%;
     overflow: hidden;
-    border: 10px ridge darkred;
+    border: 10px ridge rgb(73, 73, 73);
 }
 li a {
     display: block;
@@ -16,7 +16,7 @@ li a {
 }
 
 li a:hover {
-    background-color: white;
+    background-color: rgb(15, 255, 235);
 }
 li {
    float: left;
