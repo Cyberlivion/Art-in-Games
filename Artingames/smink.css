@@ -21,3 +21,9 @@ li a:hover {
 li {
    float: center;
     }
+body {
+    background-repeat: repeat;
+}
+html {
+    height: 100%;
+}
