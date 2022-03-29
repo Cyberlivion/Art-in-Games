@@ -23,6 +23,7 @@ li {
     }
 body {
     background-repeat: repeat;
+    background-color: grey;
 }
 html {
     height: 100%;
