@@ -3,14 +3,13 @@ ul {
     margin: 0;
     padding: 0;
     background-color: rgb(18, 158, 146);
-    position: fixed; top: 0; width: 100%;
     overflow: hidden;
-    border: 10px ridge rgb(73, 73, 73);
 }
+
 li a {
     display: block;
-   color: black;
-    padding: 8px 16px;
+    color: black;
+    padding: 14px 16px;
     text-decoration: none;
     text-align: center;
 }
@@ -18,9 +17,14 @@ li a {
 li a:hover {
     background-color: rgb(15, 255, 235);
 }
+
+
 li {
-   float: center;
+   float: left;
     }
+
+
+
 body {
     background-image: url(../img/image2.jpg);
     background-repeat: repeat;
