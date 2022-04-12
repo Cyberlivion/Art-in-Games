@@ -40,6 +40,8 @@ html {
     
     margin-right: auto;
     
+    min-height: 200 px;
+    
     max-width: 200 px;
     
     position: relative;
