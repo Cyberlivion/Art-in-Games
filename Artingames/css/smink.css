@@ -4,22 +4,22 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: rgb(18, 158, 146);
+    background-color: rgb(36, 36, 36, 0.8);
     position: fixed; top: 0; width: 100%;
     z-index: 100;
     overflow: hidden;
-    border: 10px ridge rgb(73, 73, 73);
+    border: 10px ridge rgb(106, 207, 199);
 }
 li a {
     display: block;
-   color: black;
+   color: white;
     padding: 8px 16px;
     text-decoration: none;
     text-align: center;
 }
 
 li a:hover {
-    background-color: rgb(15, 255, 235);
+    background-color: rgba(94, 94, 94, 0.5);
 }
 li {
    float: left;
@@ -30,7 +30,8 @@ img {
 
 }
 body {
-    background-image: url('img/image2.jpg');
+    background-image: url('img/image4.jpg');
+    background--size: 100%;
     background-repeat: repeat;
     background-color: grey;
 }
@@ -38,13 +39,17 @@ html {
     height: 100%;
 }
 
+p {
+    background-color: rgba(255, 255, 255, 0.479);
+    text-decoration-color: white;
+}
 
 
 .content  {
 
-    margin-left: auto;
+    margin-left: 20%;
     
-    margin-right: auto;
+    margin-right: 20%;
     
     height: auto;
     
