@@ -45,8 +45,8 @@ p {
 }
 #perinfo {
     background-color: rgb(180, 180, 180, 0.5);
-    width: 50%;
-    height: 20%;
+    width: 1000px;
+    height: 300px;
     border-radius: 15px;
 }
 .divinfo {
