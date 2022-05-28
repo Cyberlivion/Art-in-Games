@@ -2,9 +2,13 @@
 
 body {
 
-margin: 2px;
-font-size: 40px;
 
+font-size: 40px;
+width: 400px;
+
+}
+title {
+    text-align: center;
 }
 
 }
@@ -14,6 +18,7 @@ body {
 
 margin: auto;
 font-size: 30px;
+width: 700px;
 
 }
 }
@@ -23,14 +28,17 @@ body {
 
 margin: auto;
 font-size: 20px; 
-
+width: 1200px;
+}
+title {
+    text-align: center;
 }
 }
 ul {
     display: flex;
     flex-direction: row;
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     background-color: rgb(36, 36, 36, 0.8);
     position: fixed; top: 0; width: 100%;
@@ -77,18 +85,6 @@ p {
   Font-style: italic;
   Line-height: 30px;
   background-color: rgba(255, 255, 255, 0.479);
-}
-.classinfo {
-    display: flex;
-    justify-content: flex-end;
-}
-#info {
-    background-color: rgb(180, 180, 180, 0.8);
-    border-radius: 17px;
-    width: 700px;
-    height: 500px;
-    display: flex;
-    justify-content: flex-end;
 }
 
 #Skipmain {
@@ -154,7 +150,7 @@ table {
 
 .slider-button:hover{
     
-    color:rgb(176,255, 169);
+    color:rgb(33, 166, 255);
     
     }
     
